@@ -10,7 +10,7 @@ Features:
 *   Fetches historical stock data using `yfinance`.
 *   Calculates 20-day SMA.
 *   Forecasts the next day's price as the last SMA value.
-*   Simple web interface using Flask.
+*   Web interface using Flask.
 
 Requirements:
 
@@ -39,9 +39,9 @@ Limitations:
 
 Future Releases:
 
-*   Implement more prediction models.
-*   Incorporate additional data sources.
-*   Enhance user interface and analysis filters.
+*   Implementation of more prediction models.
+*   Incorporating additional data sources.
+*   Enhanced user interface and analysis filters.
 
  Contributing:
 
