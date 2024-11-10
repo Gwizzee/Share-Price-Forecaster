@@ -49,5 +49,5 @@ Contributions are welcome! Feel free to add features or submit pull requests.
 
 License:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)   
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3.0 - see the [LICENSE](LICENSE)   
  file for details.
